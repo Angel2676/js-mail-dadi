@@ -1,1 +1,1 @@
-js-mail-dadi
+repo-js-mail-dadi
